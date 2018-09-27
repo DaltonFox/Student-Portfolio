@@ -1,8 +1,0 @@
-﻿  ChessPiece.cpp
-  Main.cpp
-  PGN.cpp
-  Generating Code...
-Main.obj : error LNK2019: unresolved external symbol __imp_al_init_image_addon referenced in function main
-Main.obj : error LNK2019: unresolved external symbol __imp_al_init_primitives_addon referenced in function main
-Main.obj : error LNK2019: unresolved external symbol __imp_al_draw_filled_rectangle referenced in function main
-E:\OneDrive\Classes\Pierce\Lab4_PGN_Chess\Lab4_PGN_Chess\x64\Debug\Lab4_PGN_Chess.exe : fatal error LNK1120: 3 unresolved externals

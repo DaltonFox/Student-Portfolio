@@ -1,0 +1,10 @@
+﻿cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  main.cpp
+e:\lab backup (extra)\6\vs_single\source\main.cpp(83): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+e:\lab backup (extra)\6\vs_single\source\main.cpp(118): warning C4189: 'glContext': local variable is initialized but not referenced
+  Buffer.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+e:\lab backup (extra)\6\vs_single\source\pngops.cpp(120): warning C4701: potentially uninitialized local variable 'bytesPerPixel' used
+  Finished generating code
+  Lab6.vcxproj -> E:\Lab Backup (EXTRA)\6\VS_Single\\build\Lab6.exe
