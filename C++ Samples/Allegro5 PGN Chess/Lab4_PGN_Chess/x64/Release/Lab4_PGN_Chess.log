@@ -1,0 +1,7 @@
+﻿  ChessPiece.cpp
+  Main.cpp
+  PGN.cpp
+Main.obj : error LNK2001: unresolved external symbol __imp_al_init_image_addon
+Main.obj : error LNK2001: unresolved external symbol __imp_al_init_primitives_addon
+Main.obj : error LNK2001: unresolved external symbol __imp_al_draw_filled_rectangle
+E:\OneDrive\Classes\Pierce\Lab4_PGN_Chess\Lab4_PGN_Chess\x64\Release\Lab4_PGN_Chess.exe : fatal error LNK1120: 3 unresolved externals
