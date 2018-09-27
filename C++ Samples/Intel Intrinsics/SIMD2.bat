@@ -1,0 +1,1 @@
+start cmd /K bash "./SIMD2.sh"
