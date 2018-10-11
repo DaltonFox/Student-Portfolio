@@ -1,4 +1,4 @@
-# Project Samples - SSU and Personal Projects from 2015 - 2019
+# Work Samples - SSU and Personal Projects 2015 - 2019
 
 A variety of projects done inside and outside of class using different programming languages from my time at Shawnee State.
 
