@@ -1,6 +1,6 @@
-# Project Samples - SSU Class Projects from 2015 - 2019
+# Project Samples - SSU and Personal Projects from 2015 - 2019
 
-A variety of projects using different programming languages from my time at Shawnee State University.
+A variety of projects done inside and outside of class using different programming languages from my time at Shawnee State University.
 
 TODO: Finish Content Library and Table of Contents
 
