@@ -26,7 +26,7 @@ def process_net_message(message,address):
             data = None
 
         if command=="JOIN":
-            print("Sending dots to: ", data, address)
+            print("    Sending dots to: ", data, address)
             ip_address, port = address
             send_net_message_client(game_state_str, (ip_address,port))
     else:
@@ -62,7 +62,9 @@ game_state_dict = {}
 game_state_dict["dot_dict_list"] = dot_dict_list
 game_state_str = msgpack.dumps(game_state_dict)
 
-print("Server is running.")
+print("\n\n\n")
+print("     Server is running.")
+print("     Connecting to clients...")
 
 last = pygame.time.get_ticks()
 while game_running:

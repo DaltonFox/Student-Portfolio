@@ -12,8 +12,8 @@ class Dot(object):
         self.y = 0
         self.direction = 0
         self.color = (255, 255, 255)
-        self.size = 5
-        self.speed = 2
+        self.size = random.randint(2, 6)
+        self.speed = 0.25
 
     def load_dict(self,temp_dict):
         self.x = temp_dict["x"]

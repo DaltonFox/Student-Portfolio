@@ -23,7 +23,7 @@ public class LorenzSystem
 
 // Differentials
 float dx, dy, dz;
-float dt = 0.005;
+float dt = 0.02;
 
 // Lorenz Attractor List
 ArrayList<LorenzSystem> system_list = new ArrayList<LorenzSystem>();
