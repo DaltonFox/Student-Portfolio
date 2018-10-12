@@ -1,10 +1,10 @@
 # Work Samples - *Programming Portfolio* - (2015 - 2019)
-<br></br>
+
 A collection of projects done inside and outside of Shawnee State University, using a large variety of programming languages. Not all my work is here, but among these various projects you can find some of my favorites! Feel free to use any of the work directly in this respository for educational uses.
 
-[Personal Website](https://daltonfox.com)
-[LinkedIn Profile](https://www.linkedin.com/in/daltonfox/)
-[Email Address](contact@daltonfox.com)
+[Personal Website](https://daltonfox.com)<br></br>
+[LinkedIn Profile](https://www.linkedin.com/in/daltonfox/)<br></br>
+[Email Address](contact@daltonfox.com)<br></br>
 <br></br>
 <br></br>
 # Table of Contents
@@ -31,7 +31,6 @@ A collection of projects done inside and outside of Shawnee State University, us
   - [UDP Network - 2017](#network)
   - [Python Extending - 2018](#extend)
   - [Quadtree Images - 2018](#quads)
-<br></br>
 <br></br>
 # <a name="unity"></a>Unity3D Projects
 ### <a name="bird"></a>Yost Bird Demo - *Industry Project* - 2018
