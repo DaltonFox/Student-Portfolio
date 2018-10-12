@@ -5,7 +5,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 
 [Personal Website](https://daltonfox.com)<br></br>
 [LinkedIn Profile](https://www.linkedin.com/in/daltonfox/)<br></br>
-[Email Address](contact@daltonfox.com)<br></br>
+<contact@daltonfox.com><br></br>
 # Table of Contents
 * __[Unity3D C# Projects](#unity)__
   - [Yost Bird Demo - 2018](#bird)
