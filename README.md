@@ -1,4 +1,4 @@
-# Work Samples - Programming Projects - 2015 - 2019
+# Work Samples - Programming Portfolio - 2015 - 2019
 
 A collection of different projects done inside and outside of class using a large variety of programming languages. Not all my work is here, but this collection of projects are among my favorites! These projects were all developed during my time studying at Shawnee State University. 
 
