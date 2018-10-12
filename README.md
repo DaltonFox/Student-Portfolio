@@ -42,6 +42,7 @@ A collection of different projects done inside and outside of class using a larg
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_beyond.PNG)
 <br></br>
 <br></br>
+<br></br>
 # <a name="java"></a>Java and Processing Projects
 <br></br>
 # <a name="android"></a>Android Application - Class Project - 2017
@@ -54,8 +55,9 @@ A collection of different projects done inside and outside of class using a larg
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_lorenz.gif)
 <br></br>
 <br></br>
+<br></br>
 # <a name="c"></a>C and C++ Projects
-<br />
+<br></br>
 # <a name="linked"></a>Linked List - Class Project - 2015
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_linked.PNG)
 <br></br>
@@ -69,8 +71,9 @@ A collection of different projects done inside and outside of class using a larg
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_simd.PNG)
 <br></br>
 <br></br>
+<br></br>
 # <a name="javascript"></a>HTML and JavaScript Projects
-<br />
+<br></br>
 # <a name="ava"></a>Web Application - Personal Project - 2017
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_mobile.gif)
 <br></br>
@@ -81,8 +84,9 @@ A collection of different projects done inside and outside of class using a larg
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_yostlabs.PNG)
 <br></br>
 <br></br>
+<br></br>
 # <a name="python"></a>Python Projects
-<br />
+<br></br>
 # <a name="particles"></a>Particle Effects - Class Project - 2015
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_fireworks.gif)
 <br></br>
