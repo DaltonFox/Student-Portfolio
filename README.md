@@ -1,5 +1,5 @@
 # Work Samples - *Programming Portfolio* - (2015 - 2019) <br></br>
-###Collection Summary
+### Collection Summary
 A collection of projects done inside and outside of Shawnee State University, using a large variety of programming languages. Not all my work is here, but among these various projects you can find some of my favorites! Feel free to use any of the work directly in this respository for educational uses.
 
 [Personal Website](https://daltonfox.com)<br></br>
