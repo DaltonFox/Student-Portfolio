@@ -1,6 +1,6 @@
 # Work Samples - Various Programming Projects - 2015 - 2019
 
-![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitHubContent/Image_title.png)
+![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_title.png)
 
 # Table of Contents
 - [Unity3D Projects](#unity)
@@ -36,13 +36,16 @@ A collection of different projects done inside and outside of class using variou
 
 
 # <a name="unity"></a>Unity3D Projects
+
 # <a name="bird"></a>Yost Bird Demo - Industry Project - 2018
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_bird.gif)
 
 # <a name="critical"></a>Beyond Critical - Release Title - 2019
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_beyond.PNG)
 
+
 # <a name="python"></a>Python Projects
+
 # <a name="neon"></a>Neon Space - Class Project - 2015
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_neon.png)
 
@@ -64,9 +67,11 @@ A collection of different projects done inside and outside of class using variou
 # <a name="quads"></a>Quadtree Compression - Class Project - 2018
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_quads.png)
 
+
 # <a name="c"></a>C and C++ Projects
+
 # <a name="linked"></a>Linked List - Class Project - 2015
-![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_linked.png)
+![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_linked.PNG)
 
 # <a name="chess"></a>Allegro5 Chess - Personal Project - 2016
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_chess.PNG)
@@ -78,9 +83,11 @@ A collection of different projects done inside and outside of class using variou
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_raytracer.png)
 
 # <a name="intel"></a>Intel Intrinsics (SIMD/AVX) - Class Project - 2018
-![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_simg.PNG)
+![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_simd.PNG)
+
 
 # <a name="javascript"></a>JavaScript Projects
+
 # <a name="three"></a>ThreeJS Example - Personal Project - 2017
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_threejs.gif)
 
@@ -93,7 +100,9 @@ A collection of different projects done inside and outside of class using variou
 # <a name="yost"></a>Yost Labs Website - Industry Project - 2018
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_yostlabs.PNG)
 
+
 # <a name="java"></a>Java and Processing Projects
+
 # <a name="android"></a>Android Application - Class Project - 2017
 - missing asset
 
