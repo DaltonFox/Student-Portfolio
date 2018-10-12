@@ -1,6 +1,7 @@
-# Work Samples - Various Programming Projects - 2015 - 2019
+# Work Samples - Programming Projects - 2015 - 2019
 
-![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_title.png)
+# Collection Summary
+A collection of different projects done inside and outside of class using various programming languages. These projects were all developed during my time studying at Shawnee State University. Not all my work is here, but this collection of projects are among my favorites!
 
 # Table of Contents
 * [Unity3D Projects](#unity)
@@ -29,10 +30,6 @@
   - [Android Application - 2017](#android)
   - [Fractal Trees - 2017](#trees)
   - [Lorenz Attractor - 2017](#lorenz)
-
-
-# Collection Summary
-A collection of different projects done inside and outside of class using various programming languages. These projects were all developed during my time studying at Shawnee State University. Not all my work is here, but this collection of projects are among my favorites!
 
 
 # <a name="unity"></a>Unity3D Projects
