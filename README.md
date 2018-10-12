@@ -4,39 +4,39 @@
 
 # Table of Contents
 * [Unity3D Projects](#unity)
-  - [Yost Bird Demo - 2018](#bird)
-  - [Beyond Critical - 2019](#critical)
+  - [Yost Bird Demo        2018](#bird)
+  - [Beyond Critical       2019](#critical)
 * [Python Projects](#python)
-  - [Neon Space - 2015](#neon)
-  - [Particle Effects - 2015](#particles)
-  - [Gold Runner - 2016](#runner)
-  - [Singularity - 2017](#singular)
-  - [UDP Network - 2017](#network)
-  - [Python Extending - 2018](#extend)
-  - [Quadtree Compression - 2018](#quads)
+  - [Neon Space            2015](#neon)
+  - [Particle Effects      2015](#particles)
+  - [Gold Runner           2016](#runner)
+  - [Singularity           2017](#singular)
+  - [UDP Network           2017](#network)
+  - [Python Extending      2018](#extend)
+  - [Quadtree Images       2018](#quads)
 * [C and C++ Projects](#c)
-  - [Linked List - 2015](#linked)
-  - [Allegro5 Chess - 2016](#chess)
-  - [C++ Game Engine - 2017](#ssuge)
-  - [Compute Ray Tracer - 2018](#compute)
-  - [Intel Intrinsics - 2018](#intel)
+  - [Linked List           2015](#linked)
+  - [Allegro5 Chess        2016](#chess)
+  - [C++ Game Engine       2017](#ssuge)
+  - [Compute Ray Tracer    2018](#compute)
+  - [Intel Intrinsics      2018](#intel)
 * [HTML and JavaScript Projects](#javascript)
-  - [ThreeJS Example - 2017](#three)
-  - [Web Application - 2017](#ava)
-  - [Github Pages - 2018](#git)
-  - [Yost Labs Website - 2018](#yost)
+  - [ThreeJS Example       2017](#three)
+  - [Web Application       2017](#ava)
+  - [Github Pages          2018](#git)
+  - [Yost Labs Website     2018](#yost)
 * [Java and Processing Projects](#java)
-  - [Android Application - 2017](#android)
-  - [Fractal Trees - 2017](#trees)
-  - [Lorenz Attractor - 2017](#lorenz)
+  - [Android Application   2017](#android)
+  - [Fractal Trees         2017](#trees)
+  - [Lorenz Attractor      2017](#lorenz)
 
 
 # Collection Summary
-A collection of different projects done inside and outside of class using various programming languages. These projects were all developed during my time studying at Shawnee State University. While not every project I have worked on is listed these are among my favorites!
+A collection of different projects done inside and outside of class using various programming languages. These projects were all developed during my time studying at Shawnee State University. Not all my work is here, but this collection of projects are among my favorites!
 
 
 # <a name="unity"></a>Unity3D Projects
-
+-
 # <a name="bird"></a>Yost Bird Demo - Industry Project - 2018
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_bird.gif)
 
@@ -45,7 +45,7 @@ A collection of different projects done inside and outside of class using variou
 
 
 # <a name="python"></a>Python Projects
-
+-
 # <a name="neon"></a>Neon Space - Class Project - 2015
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_neon.png)
 
@@ -69,7 +69,7 @@ A collection of different projects done inside and outside of class using variou
 
 
 # <a name="c"></a>C and C++ Projects
-
+-
 # <a name="linked"></a>Linked List - Class Project - 2015
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_linked.PNG)
 
@@ -87,7 +87,7 @@ A collection of different projects done inside and outside of class using variou
 
 
 # <a name="javascript"></a>JavaScript Projects
-
+-
 # <a name="three"></a>ThreeJS Example - Personal Project - 2017
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_threejs.gif)
 
@@ -102,7 +102,7 @@ A collection of different projects done inside and outside of class using variou
 
 
 # <a name="java"></a>Java and Processing Projects
-
+-
 # <a name="android"></a>Android Application - Class Project - 2017
 - missing asset
 
