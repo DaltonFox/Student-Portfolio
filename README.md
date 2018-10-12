@@ -1,6 +1,5 @@
 # Work Samples - Programming Projects - 2015 - 2019
 
-# Collection Summary
 A collection of different projects done inside and outside of class using various programming languages. These projects were all developed during my time studying at Shawnee State University. Not all my work is here, but this collection of projects are among my favorites!
 
 # Table of Contents
