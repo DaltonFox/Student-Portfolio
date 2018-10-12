@@ -6,7 +6,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 [LinkedIn Profile](https://www.linkedin.com/in/daltonfox/)<br></br>
 [Email Address](contact@daltonfox.com)<br></br>
 # Table of Contents
-* __[Unity3D Projects](#unity)__
+* __[Unity3D C# Projects](#unity)__
   - [Yost Bird Demo - 2018](#bird)
   - [Beyond Critical - 2019](#critical)
 * __[Java and Processing Projects](#java)__
@@ -30,7 +30,7 @@ A collection of projects done inside and outside of Shawnee State University, us
   - [Python Extending - 2018](#extend)
   - [Quadtree Images - 2018](#quads)
 <br></br>
-# <a name="unity"></a>Unity3D Projects
+# <a name="unity"></a>Unity3D C# Projects
 ### <a name="bird"></a>Yost Bird Demo - *Industry Project* - 2018
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_bird.gif)
 <br></br>
