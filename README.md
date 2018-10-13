@@ -120,7 +120,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 <br></br>
 ### <a name="yost"></a>Yost Labs Website - *Industry Project* - 2018
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_yostlabs.PNG)](https://yostlabs.com)
-#### An industry project for Yost Labs that included the re-vamp of their ecommerce website and interface.
+#### An industry project for Yost Labs that included the re-design of their ecommerce website and interface.
 - __Technologies:__ WordPress, JavaScript, PHP, HTML 5, CSS3, FileZilla, Woocommerce
 - __Completion Time:__ 4 Months
 - __More Information:__ [Company Website](https://yostlabs.com)
