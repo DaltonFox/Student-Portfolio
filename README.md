@@ -17,7 +17,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 * __[C and C++ Projects](#c)__
   - [Linked List - 2015](#linked)
   - [C++ Game Engine - 2017](#ssuge)
-  - [Compute Ray Tracer - 2018](#compute)
+  - [Ray Tracer - 2018](#compute)
   - [Intel Intrinsics - 2018](#intel)
 * __[HTML and JavaScript Projects](#javascript)__
   - [Web Application - 2017](#ava)
@@ -89,7 +89,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 <br></br>
 ### <a name="compute"></a>Compute Shader Ray Tracer - *Class Project* - 2018
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_raytracer.png)](https://github.com/DaltonFox/Portfolio/tree/master/C%2B%2B%20Samples/Compute%20Ray%20Tracer)
-#### Introduction to compute shaders and optomizations with a live and rendered ray tracing project.
+#### Introduction to compute shaders and optimizations with a live and rendered ray tracing project.
 - __Technologies:__ Python, Ray Tracing, Compute Shaders, Intel Intrinsics, OpenGL
 - __Completion Time:__ 1 Week
 - __More Information:__ [Project Repository](https://github.com/DaltonFox/Portfolio/tree/master/C%2B%2B%20Samples/Compute%20Ray%20Tracer)
