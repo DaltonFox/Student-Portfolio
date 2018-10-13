@@ -1,7 +1,7 @@
 # *Programming Portfolio* - (2015 - 2019) <br></br>
 ![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_title.png)
 ### Portfolio Summary
-A collection of projects done inside and outside of Shawnee State University, using a large variety of programming languages. Not all my work is here, but among these various projects you can find some of my favorites! Feel free to use any of the work found directly in this respository for personal or educational uses.
+A collection of projects done inside and outside of Shawnee State University, using a large variety of programming languages. Not all my work is here, but among these various samples are some of my favorite projects! Feel free to use any of the work found directly in this respository for personal or educational uses.
 
 [Personal Website](https://daltonfox.com)<br></br>
 [LinkedIn Profile](https://www.linkedin.com/in/daltonfox/)<br></br>
