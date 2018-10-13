@@ -65,10 +65,10 @@ A collection of projects done inside and outside of Shawnee State University, us
 <br></br>
 ### <a name="lorenz"></a>Lorenz Attractor - *Personal Project* - 2017
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_lorenz.gif)](https://github.com/DaltonFox/Portfolio/tree/master/Processing%20Samples/Lorenz_Attractor)
-#### Fun project to experiement with implimenting Wikipedia algorithms. This was based off Chaos Theory.
+#### Fun project to experiment with implimenting Wikipedia algorithms. This was based off Chaos Theory.
 - __Technologies:__ Processing, Formal Algorithms, Peasy
 - __Completion Time:__ 1 Day
-- __More Information:__ [Project Repository](https://github.com/DaltonFox/Portfolio/tree/master/Processing%20Samples/Lorenz_Attractor) | [Processing Website](https://processing.org/)
+- __More Information:__ [Project Repository](https://github.com/DaltonFox/Portfolio/tree/master/Processing%20Samples/Lorenz_Attractor) | [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 <br></br>
 <br></br>
 <br></br>
@@ -82,7 +82,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 <br></br>
 ### <a name="ssuge"></a>C++ Game Engine - *Class Project* - 2017
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_ssuge.png)](https://github.com/DaltonFox/SSUGE)
-#### Awesome game engine development project. Using OGRE3D and C++ we created our own scriptable game engine.
+#### Game engine development project. Using OGRE3D and C++ I created my own scriptable game engine!
 - __Technologies:__ OGRE3D, C++, HLSL, Networking, Visual Studio 2017, Python Extending, Quaternions
 - __Completion Time:__ 8 Months
 - __More Information:__ [Project Repository](https://github.com/DaltonFox/SSUGE) | [Gaming Major](http://www.shawnee.edu/academics/fdpa/majors/gaming.aspx)
