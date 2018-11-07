@@ -60,14 +60,14 @@ A collection of projects done inside and outside of Shawnee State University, us
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_fractal.gif)](https://github.com/DaltonFox/Portfolio/tree/master/Processing%20Samples/Fractal_Trees)
 #### Processing 3 project meant to introduce me to Processing in order to later teach some friends how to program.
 - __Technologies:__ Processing, Genetic Algorithms, Automata and Formal Languages, Peasy
-- __Completion Time:__ 1 Day
+- __Completion Time:__ <1 Day
 - __More Information:__ [Project Repository](https://github.com/DaltonFox/Portfolio/tree/master/Processing%20Samples/Fractal_Trees) | [Processing Website](https://processing.org/)
 <br></br>
 ### <a name="lorenz"></a>Lorenz Attractor - *Personal Project* - 2017
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_lorenz.gif)](https://github.com/DaltonFox/Portfolio/tree/master/Processing%20Samples/Lorenz_Attractor)
 #### Fun project to experiment with implimenting Wikipedia algorithms. This was based off Chaos Theory.
 - __Technologies:__ Processing, Formal Algorithms, Peasy
-- __Completion Time:__ 1 Day
+- __Completion Time:__ <1 Day
 - __More Information:__ [Project Repository](https://github.com/DaltonFox/Portfolio/tree/master/Processing%20Samples/Lorenz_Attractor) | [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 <br></br>
 <br></br>
@@ -77,7 +77,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_linked.PNG)](https://github.com/DaltonFox/Portfolio/tree/master/C%2B%2B%20Samples/Linked%20List)
 #### One of my first projects introducing Data Structures in Java and C++ using the WSL.
 - __Technologies:__ C, C++, GNU G++, Windows Linux SubSystem (WSL)
-- __Completion Time:__ 3 Days
+- __Completion Time:__ <1 Day
 - __More Information:__ [Project Repository](https://github.com/DaltonFox/Portfolio/tree/master/C%2B%2B%20Samples/Linked%20List)
 <br></br>
 ### <a name="ssuge"></a>C++ Game Engine - *Class Project* - 2017
@@ -115,7 +115,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_pages.gif)](https://github.com/DaltonFox/DaltonFox.github.io)
 #### A set of personal projects using GitHub Pages, Google Domains, and GSuite to officially host my websites.
 - __Technologies:__ JavaScript, HTML 5, CSS3, WebStorm, Google Domains, GitHub Pages
-- __Completion Time:__ Unfinished
+- __Completion Time:__ Undetermined
 - __More Information:__ [Project 1 Repository](https://github.com/DaltonFox/DaltonFox.github.io) | [Project 2 Repository](https://github.com/BeyondCritical/BeyondCritical.github.io)
 <br></br>
 ### <a name="yost"></a>Yost Labs Website - *Industry Project* - 2018
@@ -132,7 +132,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_fireworks.gif)](https://github.com/DaltonFox/Portfolio/tree/master/Python%20Samples/Particle%20Effects)
 #### My first project in Object Oriented Programming. One of my favorites. Just a pretty particle effects demo!
 - __Technologies:__ Python, PyGame, OOP
-- __Completion Time:__ 1 Day
+- __Completion Time:__ 2 Day
 - __More Information:__ [Project Repository](https://github.com/DaltonFox/Portfolio/tree/master/Python%20Samples/Particle%20Effects)
 <br></br>
 ### <a name="runner"></a>Gold Runner - *Class Project* - 2016
@@ -167,6 +167,6 @@ A collection of projects done inside and outside of Shawnee State University, us
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_quads.png)](https://github.com/DaltonFox/Portfolio/tree/master/Python%20Samples/Quadtree%20Compression)
 #### Learned how to use Quadtrees and how they can be used for image compression and decompression.
 - __Technologies:__ Python, C, Quadtrees, Hashmaps
-- __Completion Time:__ 3 Days
+- __Completion Time:__ 1 Day
 - __More Information:__ [Project Repository](https://github.com/DaltonFox/Portfolio/tree/master/Python%20Samples/Quadtree%20Compression)
 <br></br>
