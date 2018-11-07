@@ -39,8 +39,8 @@ A collection of projects done inside and outside of Shawnee State University, us
 - __Completion Time:__ 2 Weeks
 - __More Information:__ [Image Repositiory](https://imgur.com/a/yoYoZjc) | [Company Website](https://yostlabs.com)
 <br></br>
-### <a name="critical"></a>Beyond Critical - *RSenior Project* - 2019
-[![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_beyond.PNG)](https://github.com/DaltonFox/Beyond-Critical)
+### <a name="critical"></a>Beyond Critical - *SSU Senior Project* - 2019
+[![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_CriticalDemo.gif)](https://github.com/DaltonFox/Beyond-Critical)
 #### Unity3D release title for Steam, PlayStation 4, Xbox One, Nintendo Switch, and Android.
 - __Technologies:__ Unity3D, C#, ShaderLab, Adobe Suite, Blender3D, Rewired
 - __Completion Time:__ 8 Months (Estimated)
