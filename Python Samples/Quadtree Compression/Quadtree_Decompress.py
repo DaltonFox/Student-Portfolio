@@ -1,4 +1,4 @@
-""" Dalton Fox ~ Lab 8: Quadtrees """
+""" Dalton Fox Quadtrees """
 
 import os
 import sys
