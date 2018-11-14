@@ -44,7 +44,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 #### Unity3D release title for Steam, PlayStation 4, Xbox One, Nintendo Switch, and Android.
 - __Technologies:__ Unity3D, C#, ShaderLab, Adobe Suite, Blender3D, Rewired
 - __Completion Time:__ 8 Months (Estimated)
-- __More Information:__ [Project Website (Under Construction)](https://playcritical.com) | [Social Media](https://www.facebook.com/beyondcritical/) | [Demo Video from SGC](https://youtu.be/0O3ymWmm-b4) [Unity Demo Project (Coming Soon)]()
+- __More Information:__ [Project Website (Under Construction)](https://playcritical.com) | [Social Media](https://www.facebook.com/beyondcritical/) | [Demo Video from SGC](https://youtu.be/0O3ymWmm-b4) | [Unity Demo Project (Coming Soon)]()
 <br></br>
 <br></br>
 <br></br>
