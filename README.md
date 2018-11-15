@@ -34,13 +34,6 @@ A collection of projects done inside and outside of Shawnee State University, us
 
 <br></br>
 # <a name="industry"></a>Industry Software Projects
-### <a name="steptracking"></a>Yost Step Tracking - *Industry Project* - 2017
-[![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_Tracking.png)](https://yostlabs.com/about/feature-advantages/gps-compromised-pedestrian-tracking/)
-#### Inertial Motion Sensor firmware feature that uses inertial data to replace GPS location and step tracking with a relative and offline packaged solution.
-- __Technologies:__ Python, C++, C Extending, Embedded Hardware, Intertial Motion Sensors, MATLab, SciPy
-- __Completion Time:__ 10 Months
-- __More Information:__ [Video Demo](https://yostlabs.com/about/feature-advantages/gps-compromised-pedestrian-tracking/) | [Company Website](https://yostlabs.com)
-<br></br>
 ### <a name="bird"></a>Yost Bird Demo - *Industry Project* - 2018
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_bird.gif)](https://imgur.com/a/yoYoZjc)
 #### Unity3D demo project to show off Yost Labs sensor technology in a virtual and interactive world.
@@ -53,7 +46,14 @@ A collection of projects done inside and outside of Shawnee State University, us
 #### Unity3D release title for Steam, PlayStation 4, Xbox One, Nintendo Switch, and Android.
 - __Technologies:__ Unity3D, C#, ShaderLab, Adobe Suite, Blender3D, Rewired
 - __Completion Time:__ 8 Months (Estimated)
-- __More Information:__ [Project Website (Under Construction)](https://playcritical.com) | [Social Media](https://www.facebook.com/beyondcritical/) | [Demo Video](https://youtu.be/0O3ymWmm-b4) | [Unity Demo Project (Coming Soon)](#critical)
+- __More Information:__ [Project Website (Under Construction)](https://playcritical.com) | [Social Media](https://www.facebook.com/beyondcritical/) | [Demo Video](https://youtu.be/0O3ymWmm-b4)
+<br></br>
+### <a name="steptracking"></a>Yost Step Tracking - *Industry Project* - 2017
+[![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_Tracking.png)](https://yostlabs.com/about/feature-advantages/gps-compromised-pedestrian-tracking/)
+#### Inertial Motion Sensor firmware feature that uses inertial data to replace GPS location and step tracking with a relative and offline packaged solution.
+- __Technologies:__ Python, C++, C Extending, Embedded Hardware, Intertial Motion Sensors, MATLab, SciPy
+- __Completion Time:__ 10 Months
+- __More Information:__ [Video Demo](https://yostlabs.com/about/feature-advantages/gps-compromised-pedestrian-tracking/) | [Company Website](https://yostlabs.com)
 <br></br>
 <br></br>
 <br></br>
