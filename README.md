@@ -48,15 +48,12 @@ A collection of projects done inside and outside of Shawnee State University, us
 - __Completion Time:__ 2 Weeks
 - __More Information:__ [Image Repositiory](https://imgur.com/a/yoYoZjc) | [Company Website](https://yostlabs.com)
 <br></br>
-<br></br>
-<br></br>
-# <a name="unity"></a>Unity3D C# Projects
 ### <a name="critical"></a>Beyond Critical - *SSU Senior Project* - 2019
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_CriticalDemo.gif)](https://www.youtube.com/watch?v=0O3ymWmm-b4)
 #### Unity3D release title for Steam, PlayStation 4, Xbox One, Nintendo Switch, and Android.
 - __Technologies:__ Unity3D, C#, ShaderLab, Adobe Suite, Blender3D, Rewired
 - __Completion Time:__ 8 Months (Estimated)
-- __More Information:__ [Project Website (Under Construction)](https://playcritical.com) | [Social Media](https://www.facebook.com/beyondcritical/) | [Demo Video from SGC](https://youtu.be/0O3ymWmm-b4) | [Unity Demo Project (Coming Soon)]()
+- __More Information:__ [Project Website (Under Construction)](https://playcritical.com) | [Social Media](https://www.facebook.com/beyondcritical/) | [Demo Video](https://youtu.be/0O3ymWmm-b4) | [Unity Demo Project (Coming Soon)](#critical)
 <br></br>
 <br></br>
 <br></br>
