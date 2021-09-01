@@ -45,7 +45,7 @@ A collection of projects done inside and outside of Shawnee State University, us
 #### Unity3D release title for Steam, PlayStation 4, Xbox One, Nintendo Switch, and Android.
 - __Technologies:__ Unity3D, C#, ShaderLab, Adobe Suite, Blender3D, Rewired
 - __Completion Time:__ 8 Months (Estimated)
-- __More Information:__ [Project Website (Under Construction)](https://playcritical.com) | [Social Media](https://www.facebook.com/beyondcritical/) | [Demo Video](https://youtu.be/0O3ymWmm-b4)
+- __More Information:__ [Steam Product Page](https://store.steampowered.com/app/960630/Beyond_Critical/) | [Social Media](https://www.facebook.com/beyondcritical/) | [Demo Video](https://youtu.be/0O3ymWmm-b4)
 <br></br>
 ### <a name="steptracking"></a>Yost Step Tracking - *Industry Project* - 2017
 [![alt text](https://raw.githubusercontent.com/DaltonFox/Project-Collection/master/GitContent/Image_Tracking.png)](https://youtu.be/Iccbrmdtfqs)
